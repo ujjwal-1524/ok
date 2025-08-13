@@ -1,2 +1,4 @@
 print("addition",5+6)
 print("multiplication",5*6)
+print("divisonS",a/b)
+print("substraction of two number is: ",a-b)
